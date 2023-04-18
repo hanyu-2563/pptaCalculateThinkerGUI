@@ -1,4 +1,4 @@
-# pptaCalculateThinkerGUI
+# pptaCalculateTkinterGUI
 Calc GUI (Simplex)
 
 # A Simple Python GUI Calculator
