@@ -1,0 +1,2 @@
+# pptaCalculateThinkerGUI
+Calc GUI (Simplex)
